@@ -1,0 +1,11 @@
+{
+    "name": "cstom/strategy",
+    "description": "An example that demonstrates the strategy design pattern.",
+    "authors": [
+        {
+            "name": "CSTom",
+            "email": "lethalwire@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
