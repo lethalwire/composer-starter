@@ -1,6 +1,6 @@
 {
-  "name": "cstom/strategy",
-  "description": "An example that demonstrates the strategy design pattern.",
+  "name": "lethalwire/composer-starter",
+  "description": "A basic composer starter that uses the PSR-4 specification.",
   "authors": [
     {
       "name": "CSTom",
